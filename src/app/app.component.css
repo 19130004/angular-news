@@ -1,0 +1,28 @@
+
+ @import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+.clearfix:after {
+  content: "";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+  font-size: 0;
+}
+.img216x133 {
+  width: 216px;
+  height: 133px;
+}
+ .fl {
+   float: left;
+ }
+
+ .fr {
+   float: right;
+ }
